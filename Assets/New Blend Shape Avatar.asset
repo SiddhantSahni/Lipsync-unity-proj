@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329dca3bf78fcdd42b2df941673db76f, type: 3}
+  m_Name: New Blend Shape Avatar
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 11400000, guid: 4178cbc4fbfb56844acba22b4072e1d0, type: 2}
+  - {fileID: 11400000, guid: 4d10bb61367f8ea498769f6bbd1ef989, type: 2}
+  - {fileID: 11400000, guid: e63e976c1a542f744a362cbc018fd519, type: 2}
+  - {fileID: 11400000, guid: f783a656187552444890e5da1e24e9fa, type: 2}

@@ -1,0 +1,4 @@
+repository "Lipsync/Lipsync@13469371258304@cloud"
+  path "/"
+    br "/main"
+    co "/main"
