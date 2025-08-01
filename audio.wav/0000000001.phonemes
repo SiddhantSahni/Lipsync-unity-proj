@@ -1,0 +1,16 @@
+;meta[language=en]
+;meta[version=1]
+;meta[text=Family]
+;meta[translation=fˈamɪli]
+;meta[audio-hypothesis=SIL F AE M AH L IY]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+f       |   60|  175|  1.00|  2.00| ok         | f  ~  F  [   60 -  175]
+a       |  175|  325|  1.10|  1.70| ok         | a  ~  AE [  175 -  325]
+m       |  325|  395|  1.00|  2.00| ok         | m  ~  M  [  325 -  395]
+ɪ       |  395|  425|  1.00|  0.25| ok         | ɪ  ~  AH [  395 -  425]
+l       |  425|  485|  1.00|  2.00| ok         | l  ~  L  [  425 -  485]
+i       |  485|  700|  1.00|  2.00| ok         | i  ~  IY [  485 -  700]

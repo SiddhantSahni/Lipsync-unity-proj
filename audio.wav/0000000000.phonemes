@@ -1,0 +1,16 @@
+;meta[language=en]
+;meta[version=1]
+;meta[text=Danger]
+;meta[translation=dˈeɪndʒə]
+;meta[audio-hypothesis=SIL D EY N JH EH R SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+d       |   90|  185|  1.00|  2.00| ok         | d  ~  D  [   90 -  185]
+eɪ      |  185|  355|  1.10|  2.00| ok         | eɪ ~  EY [  185 -  355]
+n       |  355|  405|  1.00|  2.00| ok         | n  ~  N  [  355 -  405]
+dʒ      |  405|  495|  1.00|  2.00| ok         | dʒ ~  JH [  405 -  495]
+ə       |  495|  545|  1.00|  0.25| ok         | ə  ~  EH [  495 -  545]
+;_       |  545|  680|  1.00| -1.00| <- VERIFY! | _  d  R  [  545 -  680]

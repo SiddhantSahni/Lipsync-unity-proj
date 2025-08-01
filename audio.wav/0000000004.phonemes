@@ -1,0 +1,17 @@
+;meta[language=en]
+;meta[version=1]
+;meta[text=Banana]
+;meta[translation=bɐnˈɑːnə]
+;meta[audio-hypothesis=SIL AE N AH N AA L SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+;b       |    0|    0|  1.00| -1.00| <- VERIFY! | b  i
+ɐ       |   60|  215|  1.00|  0.25| ok         | ɐ  ~  AE [   60 -  215]
+n       |  215|  255|  1.00|  2.00| ok         | n  ~  N  [  215 -  255]
+ɑ       |  255|  295|  1.10|  1.70| ok         | ɑ  ~  AH [  255 -  295]
+n       |  295|  355|  1.00|  2.00| ok         | n  ~  N  [  295 -  355]
+;_       |  355|  455|  1.00| -1.00| <- VERIFY! | _  d  AA [  355 -  455]
+ə       |  455|  560|  1.00| -1.00| <- VERIFY! | ə  ~  L  [  455 -  560]

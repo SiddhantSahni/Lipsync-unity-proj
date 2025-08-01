@@ -1,0 +1,15 @@
+;meta[language=en]
+;meta[version=1]
+;meta[text=Camera]
+;meta[translation=kˈamɹə]
+;meta[audio-hypothesis=SIL K AE N R AH SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+k       |   70|  145|  1.00|  2.00| ok         | k  ~  K  [   70 -  145]
+a       |  145|  285|  1.10|  1.70| ok         | a  ~  AE [  145 -  285]
+m       |  285|  325|  1.00|  0.01| ok         | m  ~  N  [  285 -  325]
+ɹ       |  325|  415|  1.00|  2.00| ok         | ɹ  ~  R  [  325 -  415]
+ə       |  415|  550|  1.00|  2.00| ok         | ə  ~  AH [  415 -  550]

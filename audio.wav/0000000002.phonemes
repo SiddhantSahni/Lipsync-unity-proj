@@ -1,0 +1,15 @@
+;meta[language=en]
+;meta[version=1]
+;meta[text=Easier]
+;meta[translation=ˈiːzɪə]
+;meta[audio-hypothesis=SIL IY Z IY EH R SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+i       |  100|  265|  1.10|  2.00| ok         | i  ~  IY [  100 -  265]
+z       |  265|  335|  1.00|  2.00| ok         | z  ~  Z  [  265 -  335]
+ɪ       |  335|  455|  1.00|  1.70| ok         | ɪ  ~  IY [  335 -  455]
+ə       |  455|  545|  1.00|  0.25| ok         | ə  ~  EH [  455 -  545]
+;_       |  545|  690|  1.00| -1.00| <- VERIFY! | _  d  R  [  545 -  690]
